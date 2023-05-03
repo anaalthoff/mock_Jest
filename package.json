@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jest": "^29.5.0"
+  },
+  "name": "mock_jest",
+  "description": "",
+  "version": "1.0.0",
+  "main": "advice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaalthoff/mock_Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaalthoff/mock_Jest/issues"
+  },
+  "homepage": "https://github.com/anaalthoff/mock_Jest#readme"
+}
